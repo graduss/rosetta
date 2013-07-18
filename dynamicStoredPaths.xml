@@ -1,0 +1,11 @@
+<installerDefaults pathToAllUsers="C:\ProgramData\Rosetta Stone">
+  <databaseConnector>
+    <localDatabasePath>C:\ProgramData\Rosetta Stone\tracking.db3</localDatabasePath>
+  </databaseConnector>
+  <defaultLocales>
+    <installerDefaultLocale>en-US</installerDefaultLocale>
+  </defaultLocales>
+  <directories>
+    <languageDataBasePath confirmed="true">C:\ProgramData\Rosetta Stone\Content</languageDataBasePath>
+  </directories>
+</installerDefaults>

@@ -1,0 +1,90 @@
+<products>
+  <product>
+    <course id="SK-ENG-L1-NA-PE-NA-NA-Y-3.7.1.0.r29" levelIndex="1" titleKey="PE_ENG_1_course_title" language="en-US" resource="68cebc9173417426b9c277770e7aca3cc4847a03" encrypted="true">
+      <locale id="de-DE">
+        <string id="PE_ENG_1_course_title" text="Englisch (Amerikanisch) Stufe 1"/>
+        <string id="language_name_en-US" text="Englisch (Amerikanisch)"/>
+        <string id="PE_ENG_L1_product_set_title" text="Version 3 Englisch (Amerikanisch) Stufe 1"/>
+        <string id="PE_ENG_L2_product_set_title" text="Version 3 Englisch (Amerikanisch) Stufe 2"/>
+        <string id="PE_ENG_L3_product_set_title" text="Version 3 Englisch (Amerikanisch) Stufe 3"/>
+        <string id="PE_ENG_S2_product_set_title" text="Version 3 Englisch (Amerikanisch) Stufe 1 &amp; 2"/>
+        <string id="PE_ENG_S3_product_set_title" text="Version 3 Englisch (Amerikanisch) Stufe 1, 2, &amp; 3"/>
+      </locale>
+      <locale id="en-US">
+        <string id="PE_ENG_1_course_title" text="English (American) Level 1"/>
+        <string id="language_name_en-US" text="English (American) "/>
+        <string id="PE_ENG_L1_product_set_title" text="Version 3 English (American) Level 1"/>
+        <string id="PE_ENG_L2_product_set_title" text="Version 3 English (American) Level 2"/>
+        <string id="PE_ENG_L3_product_set_title" text="Version 3 English (American) Level 3"/>
+        <string id="PE_ENG_S2_product_set_title" text="Version 3 English (American) Level 1 &amp; 2"/>
+        <string id="PE_ENG_S3_product_set_title" text="Version 3 English (American) Level 1, 2, &amp; 3"/>
+      </locale>
+      <locale id="es-419">
+        <string id="PE_ENG_1_course_title" text="Inglés (Estadounidense) Nivel 1"/>
+        <string id="language_name_en-US" text="Inglés (Estadounidense)"/>
+        <string id="PE_ENG_L1_product_set_title" text="Versión 3 Inglés (Estadounidense) Nivel 1"/>
+        <string id="PE_ENG_L2_product_set_title" text="Versión 3 Inglés (Estadounidense) Nivel 2"/>
+        <string id="PE_ENG_L3_product_set_title" text="Versión 3 Inglés (Estadounidense) Nivel 3"/>
+        <string id="PE_ENG_S2_product_set_title" text="Versión 3 Inglés (Estadounidense) Nivel 1 &amp; 2"/>
+        <string id="PE_ENG_S3_product_set_title" text="Versión 3 Inglés (Estadounidense) Nivel 1, 2, &amp; 3"/>
+      </locale>
+      <locale id="fr-FR">
+        <string id="PE_ENG_1_course_title" text="Anglais (Américain) Niveau 1"/>
+        <string id="language_name_en-US" text="Anglais (Américain)"/>
+        <string id="PE_ENG_L1_product_set_title" text="Version 3 Anglais (Américain) Niveau 1"/>
+        <string id="PE_ENG_L2_product_set_title" text="Version 3 Anglais (Américain) Niveau 2"/>
+        <string id="PE_ENG_L3_product_set_title" text="Version 3 Anglais (Américain) Niveau 3"/>
+        <string id="PE_ENG_S2_product_set_title" text="Version 3 Anglais (Américain) Niveau 1 &amp; 2"/>
+        <string id="PE_ENG_S3_product_set_title" text="Version 3 Anglais (Américain) Niveau 1, 2, &amp; 3"/>
+      </locale>
+      <locale id="it-IT">
+        <string id="PE_ENG_1_course_title" text="Inglese (Americano) Livello 1"/>
+        <string id="language_name_en-US" text="Inglese (Americano) "/>
+        <string id="PE_ENG_L1_product_set_title" text="Versione 3 Inglese (Americano) Livello 1"/>
+        <string id="PE_ENG_L2_product_set_title" text="Versione 3 Inglese (Americano) Livello 2"/>
+        <string id="PE_ENG_L3_product_set_title" text="Versione 3 Inglese (Americano) Livello 3"/>
+        <string id="PE_ENG_S2_product_set_title" text="Versione 3 Inglese (Americano) Livello 1 &amp; 2"/>
+        <string id="PE_ENG_S3_product_set_title" text="Versione 3 Inglese (Americano) Livello 1, 2, &amp; 3"/>
+      </locale>
+      <locale id="ja-JP">
+        <string id="PE_ENG_1_course_title" text="英語 (アメリカ) レベル 1"/>
+        <string id="language_name_en-US" text="英語 (アメリカ)  "/>
+        <string id="PE_ENG_L1_product_set_title" text="バージョン 3: 英語 (アメリカ) レベル 1"/>
+        <string id="PE_ENG_L2_product_set_title" text="バージョン 3: 英語 (アメリカ) レベル 2"/>
+        <string id="PE_ENG_L3_product_set_title" text="バージョン 3: 英語 (アメリカ) レベル 3"/>
+        <string id="PE_ENG_S2_product_set_title" text="バージョン 3: 英語 (アメリカ) レベル 1 &amp; 2"/>
+        <string id="PE_ENG_S3_product_set_title" text="バージョン 3: 英語 (アメリカ) レベル 1, 2 &amp; 3"/>
+      </locale>
+      <locale id="ko-KR">
+        <string id="PE_ENG_1_course_title" text="영어(미국) 1단계"/>
+        <string id="language_name_en-US" text="영어(미국) "/>
+        <string id="PE_ENG_L1_product_set_title" text="버전 3 영어(미국) 1단계"/>
+        <string id="PE_ENG_L2_product_set_title" text="버전 3 영어(미국) 2단계"/>
+        <string id="PE_ENG_L3_product_set_title" text="버전 3 영어(미국) 3단계"/>
+        <string id="PE_ENG_S2_product_set_title" text="버전 3 영어(미국) 1, 2단계"/>
+        <string id="PE_ENG_S3_product_set_title" text="버전 3 영어(미국) 1, 2, 3단계"/>
+      </locale>
+      <locale id="zh-CN">
+        <string id="PE_ENG_1_course_title" text="英语(美国) 1 级"/>
+        <string id="language_name_en-US" text="英语(美国) "/>
+        <string id="PE_ENG_L1_product_set_title" text="第 3 版英语(美国) 1 级"/>
+        <string id="PE_ENG_L2_product_set_title" text="第 3 版英语(美国) 2 级"/>
+        <string id="PE_ENG_L3_product_set_title" text="第 3 版英语(美国) 3 级"/>
+        <string id="PE_ENG_S2_product_set_title" text="第 3 版英语(美国) 1 ~ 2 级"/>
+        <string id="PE_ENG_S3_product_set_title" text="第 3 版英语(美国) 1 ~ 3 级"/>
+      </locale>
+      <installed>true</installed>
+    </course>
+    <activations>
+      <activation>
+        <productID/>
+        <activationID/>
+        <deactivationID/>
+        <titleKey>PE_ENG_1_course_title</titleKey>
+        <courses>
+          <course>SK-ENG-L1-NA-PE-NA-NA-Y-3</course>
+        </courses>
+      </activation>
+    </activations>
+  </product>
+</products>
